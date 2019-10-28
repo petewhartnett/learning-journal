@@ -29,4 +29,5 @@ Hello my name is Peter Hartnett, I am from Washington State. I was in the Army R
 
 ### Table of Contents
 Page 1. [Markdown](https://github.com/petewhartnett/learning-journal/wiki/Markdown) 
+
 Page 2. [The Coders Computer](https://github.com/petewhartnett/learning-journal/wiki/Text-Editor--Command-Line-Cheat-Sheet)
