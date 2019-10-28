@@ -18,6 +18,7 @@ Both individuals and organizations who possess a growth mindset embrace challeng
 
 
 
-
+ 
+Hello my name is Peter Hartnett, I am from Washington State. I was in the Army Rangers from 2008-2012 and have been working in Executive Protection since then, with the past 4 years at Microsoft. I have been studying computer science for the past few years and I am very much looking forward to getting started in the Amazon SDE Apprenticeship!
 
 [Peter Hartnett GitHub Profile](https://github.com/petewhartnett)
