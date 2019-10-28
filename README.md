@@ -14,10 +14,10 @@ Both individuals and organizations who possess a growth mindset embrace challeng
 ### Reminders
 - Commit to staying focued when challenged
 - Avoid Distractions
--
+- Learn from criticism
 
 
 
 
 
-[Peter Hartnett GitHub Page](https://github.com/petewhartnett)
+[Peter Hartnett GitHub Profile](https://github.com/petewhartnett)
