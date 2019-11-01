@@ -33,3 +33,5 @@ Page 1. [Markdown](https://github.com/petewhartnett/learning-journal/wiki/Markdo
 Page 2. [The Coders Computer](https://github.com/petewhartnett/learning-journal/wiki/Text-Editor--Command-Line-Cheat-Sheet)
 
 Page 3. [revisions and the cloud](https://github.com/petewhartnett/learning-journal/wiki/Revisions-and-the-Cloud)
+
+Page 4. [HTML5](https://github.com/petewhartnett/learning-journal/wiki/HTML)
